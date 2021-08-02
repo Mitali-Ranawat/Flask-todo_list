@@ -1,0 +1,17 @@
+h1 {
+    text-align: center;
+}
+
+.container {
+    margin: auto;
+    padding: 10px;
+}
+
+.todo-container {
+    border: 1px solid black;
+    padding: 2px;
+}
+
+span.align-right { 
+    text-align:right; 
+}
